@@ -1,0 +1,3 @@
+﻿cl : 命令行 warning D9014: 值“631”对于“/wd”无效；假定为“5999”
+  test1219.c
+  test1219.vcxproj -> C:\Users\admin\Documents\C程序学习\test1219\Debug\test1219.exe
